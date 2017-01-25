@@ -1,4 +1,4 @@
 <?=
 phpinfo();
-
-"teste"; ?>
+Ola!
+ ?>
